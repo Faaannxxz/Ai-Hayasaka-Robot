@@ -390,7 +390,7 @@ def siesta_about_callback(update, context):
                         InlineKeyboardButton(text="Credits", callback_data="siesta_credit"),
                     ],
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://github.com/shiinobu/SiestaRobot"),
+                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝙍𝙀𝙋𝙊 𝙇𝙊𝙇"),
                     ],
                     [
                     InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="siesta_back"),
@@ -477,7 +477,7 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Vain", url="https://github.com/shiinobu"),
+                        InlineKeyboardButton(text="Vain", url="https://github.com/faaannxxz"),
                     ],
                     [
                         InlineKeyboardButton(text="Paul Larsen", url="https://github.com/PaulSonOfLars"),
