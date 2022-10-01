@@ -38,9 +38,9 @@ logging.getLogger("pyrogram").setLevel(logging.INFO)
 logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLevel(logging.WARNING)
 
 LOGGER = logging.getLogger('[SiestaRobot]')
-LOGGER.info("Siesta is starting. | An Shiinobu Project Parts. | Licensed under GPLv3.")
-LOGGER.info("Not affiliated to other anime or Villain in any way whatsoever.")
-LOGGER.info("Project maintained by: github.com/shiinobu (t.me/saint_foire)")
+LOGGER.info("Ai Hayasaka is starting. | An Hayasaka Project Parts. | Licensed under GPLv3.")
+LOGGER.info("Not affiliated to other anime or Villain in any way whatever.")
+LOGGER.info("Project maintained by: github.com/Faaannxxz (t.me/deadlyXrd)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 9:
